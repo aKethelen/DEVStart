@@ -1,5 +1,9 @@
 # DEVStart - Meu Diário de Aprendizado
 
+Trilha 1. Lógica de Programação
+
+Fase 1. Variáveis e operações básicas
+
 Este repositório contém todos os exercícios, projetos e anotações do meu curso **DEVStart**.
 
 ## Estrutura
