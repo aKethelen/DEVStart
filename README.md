@@ -3,6 +3,13 @@
 Trilha 1. Lógica de Programação
 
 Fase 1. Variáveis e operações básicas
+Fase 2. Comparações, condicionais e funções
+Fase 3. Expressões e lógica booleana
+Fase 4. Matrizes
+Fase 5. Lógica avançada
+Fase 6. Objetos
+Fase 7. Classes
+Fase 8. Projetos avançados
 
 Este repositório contém todos os exercícios, projetos e anotações do meu curso **DEVStart**.
 
