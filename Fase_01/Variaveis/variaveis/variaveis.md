@@ -12,6 +12,7 @@ Definir variáveis para armazenar valores e dados
 Atribuir valores às variáveis para uso posterior  
 
 ## Exercicio 01
+
 A definição de uma variável é um conceito chave para qualquer desenvolvedor.
 
 Por exemplo, imagine que sua tarefa seja fazer com que o computador identifique todos os cidadãos aptos a votar no banco de dados da prefeitura. Para isso, o primeiro passo é definir a variável "idade" e atribuir o valor de referência 18, já que no Brasil todas as pessoas com 18 anos ou mais têm direito ao voto.
