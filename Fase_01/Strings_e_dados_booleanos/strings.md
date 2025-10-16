@@ -1,6 +1,6 @@
 # 📌 Anotações -
 
-## Conceitos Básicos - Strings e Booleanos em JavaScript
+Conceitos Básicos - Strings e Booleanos em JavaScript
 Strings
 O que são?
 Strings são sequências de caracteres que representam textos, palavras, frases ou qualquer conteúdo textual.
