@@ -116,6 +116,75 @@ Neste exercício, vamos praticar a atribuição do valor true a uma variável bo
 
 Crie uma variável chamada jaVotou e dê um valor a ela, sabendo que o usuário já votou.
 
+## Projeto 01
+
+Variações de nomes
+Complete as funções fornecidas para que possamos simular algumas variações de nome.
+
+Complete as funções que foram solicitadas.
+
+Testes
+
+Complete a função obtenhaNumeroDeCaracteres(nome).
+
+Complete a função obtenhaNomeMinusculo(nome).
+
+Complete a função obtenhaNomeMaiusculo(nome).
+
+## Projeto 01.02
+
+Utilizando o método toLowerCase
+Neste exercício, vamos praticar o método toLowerCase.
+
+Atribua à variável nomeMinusculo o resultado da aplicação do método toLowerCase() na variável nome. Assim, todas as letras do nome estarão em minúsculas.
+
+Testes
+
+A variável nomeMinusculo deve conter o nome todo em letras minúsculas.
+
+Não atribuir um valor hardcode à variável nomeMinusculo.
+
+## Projeto 02
+
+Variações de nomes
+Complete as funções fornecidas para que possamos simular algumas variações de nome.
+
+Complete as funções que foram solicitadas.
+
+Testes
+
+Complete a função obtenhaNumeroDeCaracteres(nome).
+
+Complete a função obtenhaNomeMinusculo(nome).
+
+Complete a função obtenhaNomeMaiusculo(nome).
+
+## Projeto 02.02
+
+Atribuindo valor falso
+Neste exercício, vamos praticar a atribuição do valor false a uma variável booleana.
+
+Crie uma variável chamada podeVotar e atribua um valor a ela, sabendo que o usuário ainda é menor de idade e não pode votar.
+
+Testes
+
+A variável podeVotar deve conter um valor do tipo booleano.
+
+Nesse caso, o valor boleano deve ser falso, já que o usuário não pode votar.
+
+## Projeto 02.03
+
+Atribuindo valor verdadeiro
+Neste exercício, vamos praticar a atribuição do valor true a uma variável booleana.
+
+Crie uma variável chamada jaVotou e dê um valor a ela, sabendo que o usuário já votou.
+
+Testes
+
+A variável jaVotou deve conter um valor do tipo booleano.
+
+Nesse caso, o valor boleano deve ser verdadeiro, pois sabemos que o usuário já votou.
+
 ## Dica
 
 Dicas de uso e conversão
