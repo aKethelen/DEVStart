@@ -44,6 +44,67 @@ Resumo
 | String | "texto", 'ola'| Qualquer texto (letras, números, símbolos) |
 | Booleano | true, false | Apenas true ou false |
 
+## Objetivos e conceitos aprendidos nesta fase
+
+1.Introdução às Strings
+Entender o que são strings: sequências de caracteres usadas para representar textos.
+Aprender a definir uma string em JavaScript, usando aspas simples '...' ou aspas duplas "...".
+js
+
+let saudacao = "Olá, mundo!";
+
+2.Comprimento da string
+Saber como descobrir o tamanho (número de caracteres) de uma string usando a propriedade .length.
+js
+
+let palavra = "programação";
+console.log(palavra.length);  // Exibe 10
+
+3.Escrever no console
+Utilizar console.log() para exibir texto e valores no console, uma ferramenta essencial para debugar e acompanhar o funcionamento do código.
+js
+
+console.log("Mensagem no console");
+
+4.Console e funções
+Criar funções para executar códigos reutilizáveis.
+Entender como console.log() pode ser chamado dentro de funções para mostrar resultados.
+js
+
+function dizerOla() {
+  console.log("Olá!");
+}
+
+dizerOla(); // chama a função e exibe "Olá!"
+
+5.Métodos de strings
+Utilizar métodos embutidos nas strings para transformá-las, como:
+toUpperCase() — converte para maiúsculas.
+toLowerCase() — converte para minúsculas.
+js
+
+let nome = "João";
+console.log(nome.toUpperCase()); // "JOÃO"
+console.log(nome.toLowerCase()); // "joão"
+
+6.Projeto de aplicação simples (exemplo: Aplicativo de nomes)
+Aplicar o conhecimento de strings para criar um app simples que manipula e exibe nomes, experimentando as variações aprendidas.
+
+7.Dados booleanos
+Entender os dados booleanos, que podem ter apenas dois valores: true (verdadeiro) ou false (falso).
+Usar variáveis booleanas para indicar estados ou condições, como:
+jaVotou = true — indica que o usuário já votou.
+estaAtivo = false — indica que algo está inativo.
+Aprender a atribuir e usar valores booleanos para controlar o fluxo do programa, baseando-se em condições.
+
+## Benefícios desse aprendizado
+
+Você passa a manipular dados textuais (strings) para criar e alterar mensagens no programa.
+Aprende a medir e transformar textos, otimizando a apresentação dessas informações.
+Entende como usar a ferramenta básica (console.log) para acompanhar o código.
+Integra funções e métodos para organizar e modularizar seu código.
+Aprende a trabalhar com tipos de dados essenciais: booleanos, fundamentais para tomadas de decisões e controles lógicos em qualquer programa.
+
 ## Exercicio 01
 
  Neste exercício, vamos praticar a atribuição do valor false a uma variável booleana.
