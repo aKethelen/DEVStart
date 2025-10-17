@@ -9,7 +9,55 @@ No final desta lição, você será capaz de:
 
 Compreender o conceito de variáveis e sua importância na programação
 Definir variáveis para armazenar valores e dados
-Atribuir valores às variáveis para uso posterior  
+Atribuir valores às variáveis para uso posterior
+
+## Objetivos e Conceitos Aprendidos na Fase 1: Variáveis e Primeiros Passos
+
+1.O que é uma variável?
+
+Você entendeu que uma variável é um "nome simbólico" que usamos para guardar e manipular dados durante a execução de um programa.
+Pense nela como uma "caixinha" onde colocamos informações para usar depois.
+
+2.Declarar uma variável
+
+Aprendeu que, para usar uma variável, primeiro é preciso declará-la, ou seja, dizer ao programa que ela existe.
+Em JavaScript, usamos palavras-chave como let, const ou var para isso (sendo let e const as mais modernas).
+
+3.Atribuir valor a uma variável
+
+Depois de declarar, podemos colocar um valor dentro da variável usando o sinal de igual =.
+Exemplo: let idade = 25; — aqui, criamos uma variável chamada idade e colocamos o valor numérico 25 nela.
+
+4.Tipos de dados
+
+Entendeu que as variáveis podem armazenar diferentes tipos de dados, como:
+Números (inteiros ou decimais) — ex: 25, 36.5
+Texto (strings) — ex: "Olá", "JavaScript"
+Booleanos (verdadeiro ou falso) — ex: true, false
+Isso é importante porque o tipo de dado influencia o que podemos fazer com a variável.
+
+5.Anatomia de uma variável
+
+Você viu que uma variável tem basicamente dois elementos essenciais:
+Nome da variável (identificador): que deve ser uma palavra significativa e seguir regras específicas (não começar com números, sem espaços, etc.).
+Valor: o dado que ela armazena, que pode variar durante o programa (no caso de variáveis mutáveis).
+Exemplos práticos
+
+6.Um exercício prático foi definir uma variável que representa a idade de uma pessoa, declarando o nome da variável e atribuindo um número.
+Isso ajuda a conectar o conceito com uso real na programação.
+
+## Por que esses conceitos são importantes?
+
+Aprender a usar variáveis é fundamental porque quase todo programa depende de armazenar e manipular dados.
+Sem variáveis, não conseguimos guardar informações como entradas do usuário, resultados de cálculos ou estados da aplicação.
+Além disso, elas são a base para construir lógicas mais avançadas utilizando condicionais, loops, funções, arrays e objetos.
+
+## Dicas para continuar aprendendo
+
+Pratique declarando diferentes variáveis e atribuindo vários tipos de dados.
+Tente nomear suas variáveis de forma clara, para que qualquer pessoa entenda o que aquela "caixinha" guarda.
+Explore quando usar let (variável que pode mudar) e const (valor fixo).
+Lembre-se que em JavaScript você pode mudar o valor da variável se ela for declarada com let.
 
 ## Exercicio 01
 
