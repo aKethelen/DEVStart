@@ -1,5 +1,8 @@
 
-# Objetivo -
+# Objetivos Aprendidos – Operadores de Comparação e Comparação de Igualdade
+
+Compreender o que são operadores de comparação
+Operadores de comparação são símbolos ou símbolos combinados usados para comparar valores entre si.
 
 ## Aprender a usar os operadores de comparação em JavaScript para comparar valores e obter resultados booleanos (true ou false) que são essenciais para controlar o fluxo de execução do programa
 
