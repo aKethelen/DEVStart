@@ -115,3 +115,42 @@ Crie uma variável chamada podeVotar e atribua um valor a ela, sabendo que o usu
 Neste exercício, vamos praticar a atribuição do valor true a uma variável booleana.
 
 Crie uma variável chamada jaVotou e dê um valor a ela, sabendo que o usuário já votou.
+
+## Dica
+
+Dicas de uso e conversão
+Diferencie texto de booleano: Quando você precisa de um valor \(true\) ou \(false\), escreva diretamente true ou false sem aspas. Por exemplo, em Python, variavel = True define um booleano, enquanto variavel = "True" define uma string.
+
+Exemplo em Python
+
+valor_booleano = True
+valor_string = "True"
+
+Converta strings para booleanos (com cuidado):
+Em muitas linguagens, uma string vazia "" é avaliada como false.
+Qualquer outra string, incluindo "true" ou "false", pode ser avaliada como true em contextos booleanos.
+Para converter com mais controle, você pode fazer comparações ou usar funções específicas.
+
+Exemplo em JavaScript
+
+let minhaString = "false";
+let meuBooleano = minhaString === "true"; // Isso resulta em false
+
+let outraString = "true";
+let outroBooleano = outraString === "true"; // Isso resulta em true
+Utilize em lógica de programação:
+Booleanos são ideais para tomar decisões em estruturas como if e else ou em loops.
+É crucial garantir que a variável que você está usando para essa decisão seja realmente um tipo booleano.
+Python
+
+Exemplo de uso em um loop (Python)
+
+if meuBooleano:
+  print("O valor é verdadeiro.")
+else:
+  print("O valor é falso.")
+
+Dica adicional para pesquisa: Pesquisa booleana
+
+O que é: A pesquisa booleana usa operadores como AND, OR, e NOT para combinar termos e refinar resultados em pesquisas online, como no Google, LinkedIn, etc.
+Exemplo: Para encontrar informações sobre gatos e cachorros você digitaria gatos AND cachorros. Para encontrar informações sobre gatos ou cachorros, você digitaria gatos OR cachorros. E para excluir um termo, você usaria gatos NOT cachorros para encontrar resultados sobre gatos que não mencionem cachorros.
